@@ -1,0 +1,314 @@
+[
+  {
+    "Date": "2019-12-08",
+    "MeanWeekends": 17019272,
+    "MeanWeekdays": 14628647,
+    "Difference": 2390625
+  },
+  {
+    "Date": "2019-12-15",
+    "MeanWeekends": 17016910,
+    "MeanWeekdays": 14459099.4,
+    "Difference": 2557810.6
+  },
+  {
+    "Date": "2019-12-22",
+    "MeanWeekends": 17405805,
+    "MeanWeekdays": 14754535.8,
+    "Difference": 2651269.2
+  },
+  {
+    "Date": "2019-12-29",
+    "MeanWeekends": 17589054,
+    "MeanWeekdays": 16348483.8,
+    "Difference": 1240570.2
+  },
+  {
+    "Date": "2020-01-05",
+    "MeanWeekends": 17896305,
+    "MeanWeekdays": 17008193.2,
+    "Difference": 888111.8
+  },
+  {
+    "Date": "2020-01-12",
+    "MeanWeekends": 17941753,
+    "MeanWeekdays": 15766748.2,
+    "Difference": 2175004.8
+  },
+  {
+    "Date": "2020-01-19",
+    "MeanWeekends": 17416581,
+    "MeanWeekdays": 15140358.8,
+    "Difference": 2276222.2
+  },
+  {
+    "Date": "2020-01-26",
+    "MeanWeekends": 17846235,
+    "MeanWeekdays": 15283724.6,
+    "Difference": 2562510.4
+  },
+  {
+    "Date": "2020-02-02",
+    "MeanWeekends": 18515685,
+    "MeanWeekdays": 15964092.6,
+    "Difference": 2551592.4
+  },
+  {
+    "Date": "2020-02-09",
+    "MeanWeekends": 18791983,
+    "MeanWeekdays": 16198257.8,
+    "Difference": 2593725.2
+  },
+  {
+    "Date": "2020-02-16",
+    "MeanWeekends": 18489984.5,
+    "MeanWeekdays": 16197041,
+    "Difference": 2292943.5
+  },
+  {
+    "Date": "2020-02-23",
+    "MeanWeekends": 18622213.5,
+    "MeanWeekdays": 16356050.2,
+    "Difference": 2266163.3
+  },
+  {
+    "Date": "2020-03-01",
+    "MeanWeekends": 19065446.5,
+    "MeanWeekdays": 16574690.2,
+    "Difference": 2490756.3
+  },
+  {
+    "Date": "2020-03-08",
+    "MeanWeekends": 18905903,
+    "MeanWeekdays": 16361861.6,
+    "Difference": 2544041.4
+  },
+  {
+    "Date": "2020-03-15",
+    "MeanWeekends": 20020872.5,
+    "MeanWeekdays": 16908893,
+    "Difference": 3111979.5
+  },
+  {
+    "Date": "2020-03-22",
+    "MeanWeekends": 22528808.5,
+    "MeanWeekdays": 20209190.4,
+    "Difference": 2319618.1
+  },
+  {
+    "Date": "2020-03-29",
+    "MeanWeekends": 23051610.5,
+    "MeanWeekdays": 22355491,
+    "Difference": 696119.5
+  },
+  {
+    "Date": "2020-04-05",
+    "MeanWeekends": 24243320.5,
+    "MeanWeekdays": 23804405.8,
+    "Difference": 438914.7
+  },
+  {
+    "Date": "2020-04-12",
+    "MeanWeekends": 23708378.5,
+    "MeanWeekdays": 23481284.8,
+    "Difference": 227093.7
+  },
+  {
+    "Date": "2020-04-19",
+    "MeanWeekends": 23517971,
+    "MeanWeekdays": 23742151.4,
+    "Difference": -224180.4
+  },
+  {
+    "Date": "2020-04-26",
+    "MeanWeekends": 23253395.5,
+    "MeanWeekdays": 23390555.2,
+    "Difference": -137159.7
+  },
+  {
+    "Date": "2020-05-03",
+    "MeanWeekends": 23067199,
+    "MeanWeekdays": 23390970.8,
+    "Difference": -323771.8
+  },
+  {
+    "Date": "2020-05-10",
+    "MeanWeekends": 22326301,
+    "MeanWeekdays": 22810862.2,
+    "Difference": -484561.2
+  },
+  {
+    "Date": "2020-05-17",
+    "MeanWeekends": 22040703,
+    "MeanWeekdays": 22399566,
+    "Difference": -358863
+  },
+  {
+    "Date": "2020-05-24",
+    "MeanWeekends": 22175187,
+    "MeanWeekdays": 22058428,
+    "Difference": 116759
+  },
+  {
+    "Date": "2020-05-31",
+    "MeanWeekends": 21427003.5,
+    "MeanWeekdays": 21797477.8,
+    "Difference": -370474.3
+  },
+  {
+    "Date": "2020-06-07",
+    "MeanWeekends": 20880985.5,
+    "MeanWeekdays": 21096040,
+    "Difference": -215054.5
+  },
+  {
+    "Date": "2020-06-14",
+    "MeanWeekends": 20394530,
+    "MeanWeekdays": 20508987.2,
+    "Difference": -114457.2
+  },
+  {
+    "Date": "2020-06-21",
+    "MeanWeekends": 20442838.5,
+    "MeanWeekdays": 20336234.2,
+    "Difference": 106604.3
+  },
+  {
+    "Date": "2020-06-28",
+    "MeanWeekends": 20592464,
+    "MeanWeekdays": 20294465.8,
+    "Difference": 297998.2
+  },
+  {
+    "Date": "2020-07-05",
+    "MeanWeekends": 20699088.5,
+    "MeanWeekdays": 20804353,
+    "Difference": -105264.5
+  },
+  {
+    "Date": "2020-07-12",
+    "MeanWeekends": 20101870.5,
+    "MeanWeekdays": 20482330.8,
+    "Difference": -380460.3
+  },
+  {
+    "Date": "2020-07-19",
+    "MeanWeekends": 19438245,
+    "MeanWeekdays": 19709667.4,
+    "Difference": -271422.4
+  },
+  {
+    "Date": "2020-07-26",
+    "MeanWeekends": 19422513,
+    "MeanWeekdays": 19354211.4,
+    "Difference": 68301.6
+  },
+  {
+    "Date": "2020-08-02",
+    "MeanWeekends": 19267719.5,
+    "MeanWeekdays": 19125242.4,
+    "Difference": 142477.1
+  },
+  {
+    "Date": "2020-08-09",
+    "MeanWeekends": 19429751.5,
+    "MeanWeekdays": 19438020.6,
+    "Difference": -8269.1
+  },
+  {
+    "Date": "2020-08-16",
+    "MeanWeekends": 19648838,
+    "MeanWeekdays": 19598521.6,
+    "Difference": 50316.4
+  },
+  {
+    "Date": "2020-08-23",
+    "MeanWeekends": 20365934.5,
+    "MeanWeekdays": 20013429.2,
+    "Difference": 352505.3
+  },
+  {
+    "Date": "2020-08-30",
+    "MeanWeekends": 20601398,
+    "MeanWeekdays": 20630235.2,
+    "Difference": -28837.2
+  },
+  {
+    "Date": "2020-09-06",
+    "MeanWeekends": 21157757,
+    "MeanWeekdays": 20491521,
+    "Difference": 666236
+  },
+  {
+    "Date": "2020-09-13",
+    "MeanWeekends": 21059628.5,
+    "MeanWeekdays": 20645615.8,
+    "Difference": 414012.7
+  },
+  {
+    "Date": "2020-09-20",
+    "MeanWeekends": 21425733,
+    "MeanWeekdays": 20736902.2,
+    "Difference": 688830.8
+  },
+  {
+    "Date": "2020-09-27",
+    "MeanWeekends": 21862247,
+    "MeanWeekdays": 21194126.8,
+    "Difference": 668120.2
+  },
+  {
+    "Date": "2020-10-04",
+    "MeanWeekends": 22098524.5,
+    "MeanWeekdays": 21526461.6,
+    "Difference": 572062.9
+  },
+  {
+    "Date": "2020-10-11",
+    "MeanWeekends": 22376131,
+    "MeanWeekdays": 21742446.8,
+    "Difference": 633684.2
+  },
+  {
+    "Date": "2020-10-18",
+    "MeanWeekends": 22090219.5,
+    "MeanWeekdays": 21545052.8,
+    "Difference": 545166.7
+  },
+  {
+    "Date": "2020-10-25",
+    "MeanWeekends": 21984047.5,
+    "MeanWeekdays": 21622250.8,
+    "Difference": 361796.7
+  },
+  {
+    "Date": "2020-11-01",
+    "MeanWeekends": 23203858,
+    "MeanWeekdays": 21979833.6,
+    "Difference": 1224024.4
+  },
+  {
+    "Date": "2020-11-08",
+    "MeanWeekends": 23356987,
+    "MeanWeekdays": 22324074.2,
+    "Difference": 1032912.8
+  },
+  {
+    "Date": "2020-11-15",
+    "MeanWeekends": 22727528,
+    "MeanWeekdays": 22099802.6,
+    "Difference": 627725.4
+  },
+  {
+    "Date": "2020-11-22",
+    "MeanWeekends": 23151054.5,
+    "MeanWeekdays": 22074481.2,
+    "Difference": 1076573.3
+  },
+  {
+    "Date": "2020-11-29",
+    "MeanWeekends": 23887621,
+    "MeanWeekdays": 22250609,
+    "Difference": 1637012
+  }
+]
